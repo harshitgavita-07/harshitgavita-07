@@ -138,6 +138,12 @@ Sync your music to your emotional state in real time. Bridging the gap between h
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitgavita-07&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitgavita-07/ML_fundamentals/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitgavita-07/ML_fundamentals/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/harshitgavita-07/ML_fundamentals/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
