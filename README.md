@@ -65,9 +65,5 @@ Open to **ML Engineer / Applied AI / AI Systems** roles — remote globally.
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitgavita-07/harshitgavita-07/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitgavita-07/harshitgavita-07/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/harshitgavita-07/harshitgavita-07/output/github-snake.svg" />
-  </picture>
+  <img src="https://ghchart.rshah.org/58a6ff/harshitgavita-07" alt="Harshit's GitHub Contribution Chart" width="100%" />
 </div>
