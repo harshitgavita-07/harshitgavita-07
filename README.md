@@ -165,12 +165,11 @@ A governance proposal for constraining and auditing self-modifying AI systems us
 ## 🎯 2025 Targets
 
 ```
-[ ] bharatLang v1.0 — pip-installable, all 22 Indian languages
+[ ] BharatLang v1.0 — pip-installable, all 22 Indian languages
 [ ] Sarvam Search — public beta
 [ ] Akshar LLM — first multilingual checkpoint
-[ ] PTF Paper — peer reviewed publication
+[ ] PTF Paper — peer-reviewed publication
 [ ] Open source: 10+ merged PRs across AI safety / NLP repos
-[ ] Meta PyTorch OpenEnv Hackathon — Bangalore Finale
 [✓] AIOS — shipped
 [✓] Anthropic Performance Challenge — 10.2× speedup
 [✓] micrograd-JAX — XLA-compiled, GPU-ready
