@@ -76,7 +76,7 @@ A governance proposal for constraining and auditing self-modifying AI systems us
 
 | Project | What | Status |
 |---------|------|--------|
-| 🌐 **[bharatLang](https://github.com/harshitgavita-07)** | Unified Python NLP library for all 22 scheduled Indian languages + 780 dialects | 🔨 Building |
+| 🌐 **[bharatLang]** | Unified Python NLP library for all 22 scheduled Indian languages + 780 dialects | 🔨 Building |
 | 🔍 **Sarvam Search** | India-first AI safety-native search engine | 🔨 Building |
 | 🤖 **Akshar LLM Platform** | Multilingual LLM — data pipeline through agentic system | 🔨 Building |
 | 🖥️ **[AIOS](https://github.com/harshitgavita-07/Aios)** | Local offline AI desktop assistant — zero cloud dependency | ✅ Live |
