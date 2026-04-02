@@ -162,7 +162,7 @@ A governance proposal for constraining and auditing self-modifying AI systems us
 
 ---
 
-## 🎯 2025 Targets
+## 🎯 2026 Targets
 
 ```
 [ ] BharatLang v1.0 — pip-installable, all 22 Indian languages
