@@ -79,7 +79,7 @@ A governance proposal for constraining and auditing self-modifying AI systems us
 | 🌐 **bharatLang** | Unified Python NLP library for all 22 scheduled Indian languages + 780 dialects | 🔨 Building |
 | 🔍 **Sarvam Search** | India-first AI safety-native search engine | 🔨 Building |
 | 🤖 **Akshar LLM Platform** | Multilingual LLM — data pipeline through agentic system | 🔨 Building |
-| 🖥️ **[AIOS](https://github.com/harshitgavita-07/Aios)** | Local offline AI desktop assistant — zero cloud dependency | ✅ Live |
+| 🖥️ **[AIOS](https://github.com/harshitgavita-07/Aios)** | Local offline AI desktop assistant + AI-Native Operating Environment — zero cloud dependency | ✅ Live |
 
 </div>
 
