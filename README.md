@@ -32,7 +32,7 @@
 harshit = {
     "role"       : "AI Safety Engineer | Applied AI Systems",
     "focus"      : ["Agentic AI", "Multi-agent Orchestration", "AI Evaluation", "On-device ML"],
-    "building"   : ["bharatLang","Akshar LLM Platform", "AIOS"],
+    "building"   : ["AIOS"],
     "researching": ["PTF — Agentic AI Failure Study (SSRN)", "Genesis Lock — Blockchain AI Governance"],
     "philosophy" : "From math → production. No API wrappers, no shortcuts.",
     "location"   : "India 🇮🇳 — India-first deployment always.",
@@ -76,8 +76,7 @@ A governance proposal for constraining and auditing self-modifying AI systems us
 
 | Project | What | Status |
 |---------|------|--------|
-| 🌐 **bharatLang** | Unified Python NLP library for all 22 scheduled Indian languages + 780 dialects | 🔨 Building |
-| 🤖 **Akshar LLM Platform** | Multilingual LLM — data pipeline through agentic system | 🔨 Building |
+
 | 🖥️ **[AIOS](https://github.com/harshitgavita-07/Aios)** | Local offline AI desktop assistant + AI-Native Operating Environment — zero cloud dependency | ✅ Live |
 
 </div>
@@ -164,9 +163,6 @@ A governance proposal for constraining and auditing self-modifying AI systems us
 ## 🎯 2026 Targets
 
 ```
-[ ] BharatLang v1.0 — pip-installable, all 22 Indian languages
-[ ] Sarvam Search — public beta
-[ ] Akshar LLM — first multilingual checkpoint
 [ ] PTF Paper — peer-reviewed publication
 [ ] Open source: 10+ merged PRs across AI safety / NLP repos
 [✓] AIOS — shipped
