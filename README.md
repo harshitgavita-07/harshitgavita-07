@@ -166,10 +166,12 @@ A governance proposal for constraining and auditing self-modifying AI systems us
 
 ```
 [ ] PTF Paper — peer-reviewed publication
-[ ] Open source: 10+ merged PRs across AI safety / NLP repos
+[✓]   PTF PAPER(Preprint) - Published to SSRN 
+[✓]  Open source: 10+ merged PRs across AI safety / NLP repos
 [✓] AIOS — shipped
 [✓] Anthropic Performance Challenge — 10.2× speedup
 [✓] micrograd-JAX — XLA-compiled, GPU-ready
+[ ]  Building a small prototype to the PTF and genesis lock frameworks and around  "How humans can control AI "
 ```
 
 ---
