@@ -52,6 +52,8 @@ harshit = {
 
 An investigation into a real multi-agent system failure — root cause analysis, failure cascade mapping, and safety mitigations. Submitted to SSRN.
 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6472278
+
 `#AISafety` `#AgenticAI` `#FailureAnalysis`
 
 </td>
