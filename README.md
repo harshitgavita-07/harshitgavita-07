@@ -165,7 +165,7 @@ A governance proposal for constraining and auditing self-modifying AI systems us
 ## 🎯 2026 Targets
 
 ```
-[ ] PTF Paper — peer-reviewed publication
+[ ] PTF Paper — peer-reviewed ArXiv publication
 [✓]   PTF PAPER(Preprint) - Published to SSRN 
 [✓]  Open source: 10+ merged PRs across AI safety / NLP repos
 [✓] AIOS — shipped
