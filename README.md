@@ -153,20 +153,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6472278
 
 ---
 
-## 🎯 2026 Targets
-
-```
-[ ] PTF Paper — peer-reviewed ArXiv publication
-[✓]   PTF PAPER(Preprint) - Published to SSRN 
-[✓]  Open source: 10+ merged PRs across AI safety / NLP repos
-[✓] AIOS — shipped
-[✓] Anthropic Performance Challenge — 10.2× speedup
-[✓] micrograd-JAX — XLA-compiled, GPU-ready
-[ ]  Building a small prototype to the PTF and genesis lock frameworks and around  "How humans can control AI "
-```
-
----
-
 ## 💬 Let's Connect
 
 <div align="center">
