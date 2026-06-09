@@ -57,16 +57,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6472278
 `#AISafety` `#AgenticAI` `#FailureAnalysis`
 
 </td>
-<td width="50%">
 
-### 🔗 Genesis Lock
-*Blockchain governance for self-evolving AI*
-
-A governance proposal for constraining and auditing self-modifying AI systems using on-chain commit structures and quorum-based approval gates.
-
-`#AIGovernance` `#Blockchain` `#SafeAI`
-
-</td>
 </tr>
 </table>
 
