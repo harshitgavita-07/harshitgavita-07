@@ -26,6 +26,14 @@
 
 ---
 
+<div align="center">
+
+<img src="./ascii.svg" width="640" alt="ascii self portrait"/>
+
+</div>
+
+---
+
 ## ⚡ Who Am I
 
 ```python
@@ -174,5 +182,5 @@ If you're building in **agentic AI, multilingual NLP, on-device inference, or AI
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" width="100%"/>
 
-<!-- last-refresh: 2025-04-01 06:10 UTC -->
+<!-- last-refresh: 2026-07-20 -->
 </div>
