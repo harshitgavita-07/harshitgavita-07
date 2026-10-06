@@ -24,7 +24,23 @@
 | **AlphaFold 3** | Invalid chain IDs passed validation and failed later | I reported it with a proposed fix; the [maintainer commit](https://github.com/google-deepmind/alphafold3/commit/f43dfb8c8b872539c5eb37103ee85f67969c97d8) credits it (not authored by me upstream) |
 | **Hugging Face tau** | In progress | [PR #762](https://github.com/huggingface/tau/pull/762) is open, not merged |
 
-4 merged PRs in other people's repos, 2 fixes incorporated by maintainers, 1 credited report, 6 projects.
+### Contribution tracker
+
+Pull requests I opened in other people's repositories, with status checked against GitHub on 6 Oct 2026. Forks and my own repos are not counted here. Updated by hand, so the linked PR is the source of truth.
+
+| Opened | Repository | PR | Status |
+|---|---|---|---|
+| 29 Sep | e2b-dev/E2B | [#1912](https://github.com/e2b-dev/E2B/pull/1912) | Merged |
+| 29 Sep | garrytan/gstack | [#2997](https://github.com/garrytan/gstack/pull/2997) | Closed; fix incorporated in maintainer PR #3013 |
+| 30 Sep | garrytan/gstack | [#3001](https://github.com/garrytan/gstack/pull/3001) | Closed; fix incorporated in maintainer PR #3013 |
+| 1 Oct | AgentPhone-AI/agentphone-mcp | [#74](https://github.com/AgentPhone-AI/agentphone-mcp/pull/74) | Merged |
+| 1 Oct | tester-army/e2e | [#734](https://github.com/tester-army/e2e/pull/734) | Merged |
+| 2 Oct | facebookincubator/muse-gadget-sdk | [#3](https://github.com/facebookincubator/muse-gadget-sdk/pull/3) | Merged |
+| 6 Oct | huggingface/tau | [#762](https://github.com/huggingface/tau/pull/762) | Open |
+| 6 Oct | pytorch/tensordict | [#1839](https://github.com/pytorch/tensordict/pull/1839) | Open |
+| 6 Oct | pytorch/tensordict | [#1836](https://github.com/pytorch/tensordict/pull/1836) | Closed without merge; no reason given |
+
+**Totals:** 9 PRs opened, 4 merged, 2 closed after the maintainer incorporated the fix, 2 open, 1 closed without merge. Plus 1 AlphaFold 3 bug report credited in a maintainer commit.
 
 ---
 
