@@ -28,7 +28,7 @@
 
 ---
 
-## Things I built
+## Projects
 
 | Project | What it is | Honest status |
 |---|---|---|
@@ -36,7 +36,7 @@
 | [**Anthropic performance take-home**](https://github.com/harshitgavita-07/Anthropic_challenge-my-solution-) | My solution to Anthropic's public kernel-optimization take-home: about 147K down to about 14.4K simulated cycles (10.2x) | Did not reach the benchmark's tighter cycle thresholds; the repo says so |
 | [**micrograd-JAX**](https://github.com/harshitgavita-07/micrograd_JAX) | Karpathy's micrograd idea rebuilt with JAX transforms (`grad`, `jit`, `vmap`) as a learning project | Fork of the original, my JAX version is in the notebook |
 | [**ML Fundamentals**](https://github.com/harshitgavita-07/ML_fundamentals) | 19 notebooks on core ML algorithms | Learning notes, not a library |
-| [**agent-canvas**](https://github.com/harshitgavita-07/agent-canvas) | Typed Python DSL for visual lessons, with a test suite (312 tests pass when I ran it; needs Python 3.12+) | I ran the tests; passing locally |
+| [**agent-canvas**](https://github.com/harshitgavita-07/agent-canvas) | Typed Python DSL for visual lessons, with a test suite (312 tests passed in local verification; requires Python 3.12+) | Locally verified; not a deployment claim |
 
 ---
 
