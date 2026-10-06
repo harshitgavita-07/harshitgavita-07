@@ -1,4 +1,4 @@
-# Harshit Gavita
+# Gavita Harshit 
 
 **AI systems, agents and developer tooling.** B.Tech CSE (AI & Data Science), Pune, India. Open to work.
 
